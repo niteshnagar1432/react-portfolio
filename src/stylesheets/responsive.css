@@ -1,0 +1,577 @@
+@media only screen and (min-width: 400px) and (max-width: 650px) {
+    .header .logo {
+        width: 140px;
+        height: 60px;
+        margin-top: 10px;
+    }
+
+    .video-body {
+        width: 100%;
+        height: 300px;
+    }
+
+    .video-body .my-img {
+        width: 95%;
+        height: auto;
+        margin-left: -10%;
+
+    }
+
+    .video-body .my-img h1 {
+        font-size: 40px;
+    }
+
+    .video-body .my-img p {
+        width: auto;
+        height: auto;
+        font-size: 22px;
+    }
+
+    h3.hello {
+        white-space: normal;
+        font-size: 29px;
+    }
+
+    h3.my-profession {
+        font-size: 27px;
+    }
+
+    .about-section .row .home-info {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        padding-top: 25%;
+    }
+
+    .about-section .row .home-img {
+        display: none;
+    }
+
+    .sub-h {
+        font-size: 22px;
+        /* padding: 20px; */
+        text-align: center;
+    }
+
+    .pera {
+        width: 100%;
+    }
+
+    #about-me-l {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #about-me-l .sub-box {
+        width: 100%;
+        margin-left: 0%;
+        display: inline-block;
+        margin-top: 20px;
+        padding-left: 10%;
+    }
+
+    #about-me-l .skills {
+        width: 70%;
+        /* height: 50%; */
+        /* margin-left: 9%; */
+        /* padding: 20px; */
+    }
+
+    #about-me-l .sub-box .sub-box-1 h3 {
+        white-space: nowrap;
+    }
+
+    .have-a-question .top-heading {
+        margin-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .have-a-question {
+        height: auto;
+    }
+
+    .have-a-question .full-details {
+        flex-direction: column-reverse;
+        gap: 50px;
+    }
+
+    .have-a-question .full-details .mobile {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .location {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .email {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .web-p {
+        width: 100%;
+    }
+
+    .f-logo {
+        width: 28%;
+    }
+
+    .footer-content>p {
+        padding: 15px;
+    }
+
+    .footer-menu {
+        display: none;
+    }
+
+
+    /* About Section Are Responsive */
+    .sucess-status {
+        display: inline-block;
+    }
+
+    .sucess-status .education .main-box {
+        width: 230%;
+    }
+
+    .sucess-status .education .main-box .sub-box-1 {
+        height: 456px;
+    }
+
+    .sucess-status .expiriance .main-box {
+        display: flex;
+        width: 230%;
+    }
+
+    .sucess-status .expiriance .main-box .sub-box-1 {
+        height: 456px;
+    }
+
+
+}
+
+@media only screen and (min-width: 650px) and (max-width: 1020px) {
+    .header .logo {
+        width: 140px;
+        height: 60px;
+        margin-top: 10px;
+    }
+
+    .video-body {
+        width: 100%;
+        height: 300px;
+    }
+
+    .video-body .my-img {
+        width: 95%;
+        height: auto;
+        margin-left: -10%;
+
+    }
+
+    .video-body .my-img h1 {
+        font-size: 40px;
+    }
+
+    .video-body .my-img p {
+        width: auto;
+        height: auto;
+        font-size: 22px;
+    }
+
+    h3.hello {
+        white-space: normal;
+        font-size: 29px;
+    }
+
+    h3.my-profession {
+        font-size: 27px;
+    }
+
+    .about-section .row .home-info {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        padding-top: 25%;
+    }
+
+    .about-section .row .home-img {
+        display: none;
+    }
+
+    .sub-h {
+        font-size: 22px;
+        /* padding: 20px; */
+        text-align: center;
+    }
+
+    .pera {
+        width: 100%;
+    }
+
+    #about-me-l {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #about-me-l .sub-box {
+        width: 100%;
+        margin-left: 0%;
+        display: flex;
+        margin-top: 20px;
+        padding-left: 3%;
+    }
+
+    #about-me-l .skills {
+        width: 70%;
+        /* height: 50%; */
+        /* margin-left: 9%; */
+        /* padding: 20px; */
+    }
+
+    #about-me-l .sub-box .sub-box-1 h3 {
+        white-space: nowrap;
+    }
+
+    .have-a-question .top-heading {
+        margin-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .have-a-question {
+        height: auto;
+    }
+
+    .have-a-question .full-details {
+        flex-direction: column-reverse;
+        gap: 50px;
+    }
+
+    .have-a-question .full-details .mobile {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .location {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .email {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .web-p {
+        width: 100%;
+    }
+
+    .f-logo {
+        width: 28%;
+    }
+
+    .footer-content>p {
+        padding: 15px;
+    }
+}
+
+@media only screen and (min-width: 820px) and (max-width: 2520px) {
+    .hamb {
+        display: none !important;
+    }
+}
+
+@media only screen and (min-width: 1020px) and (max-width: 1120px) {
+    .header .logo {
+        width: 140px;
+        height: 60px;
+        margin-top: 10px;
+    }
+
+    .video-body {
+        width: 100%;
+        height: 300px;
+    }
+
+    .video-body .my-img {
+        width: 95%;
+        height: auto;
+        margin-left: -10%;
+
+    }
+
+    .video-body .my-img h1 {
+        font-size: 40px;
+    }
+
+    .video-body .my-img p {
+        width: 70%;
+        height: auto;
+        font-size: 22px;
+    }
+
+    h3.hello {
+        white-space: normal;
+        font-size: 29px;
+    }
+
+    h3.my-profession {
+        font-size: 27px;
+    }
+
+    /* .about-section .row .home-info{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        padding-top: 25%;
+    } */
+    /* .about-section .row .home-img{
+        display: none;
+    } */
+    .home-img::before {
+        left: 6%;
+    }
+
+    .home-img::after {
+        left: 73%;
+        bottom: 9%;
+    }
+
+    .sub-h {
+        font-size: 22px;
+        /* padding: 20px; */
+        text-align: center;
+    }
+
+    .pera {
+        width: 100%;
+    }
+
+    #about-me-l {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #about-me-l .sub-box {
+        width: 100%;
+        margin-left: 0%;
+        display: flex;
+        margin-top: 20px;
+        padding-left: 3%;
+    }
+
+    #about-me-l .skills {
+        width: 70%;
+        /* height: 50%; */
+        /* margin-left: 9%; */
+        /* padding: 20px; */
+    }
+
+    #about-me-l .sub-box .sub-box-1 h3 {
+        white-space: nowrap;
+    }
+
+    .have-a-question .top-heading {
+        margin-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .have-a-question {
+        height: auto;
+    }
+
+    .have-a-question .full-details {
+        gap: 50px;
+    }
+
+    .have-a-question .full-details .mobile {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .location {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .email {
+        width: 100%;
+    }
+
+    .have-a-question .full-details .web-p {
+        width: 100%;
+    }
+
+    .f-logo {
+        width: 28%;
+    }
+
+    .footer-content>p {
+        padding: 15px;
+    }
+
+    .hamb {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 650px) and (max-width: 750px) {
+
+    /* About Section Are Responsive */
+    .sucess-status {
+        display: inline-block;
+    }
+
+    .sucess-status .education .main-box {
+        width: 230%;
+    }
+
+    .sucess-status .education .main-box .sub-box-1 {
+        height: 397px;
+    }
+
+    .sucess-status .expiriance .main-box {
+        display: flex;
+        width: 230%;
+    }
+
+    .sucess-status .expiriance .main-box .sub-box-1 {
+        height: 397px;
+    }
+}
+
+@media only screen and (min-width: 750px) and (max-width: 850px) {
+
+    /* About Section Are Responsive */
+    .sucess-status {
+        display: inline-block;
+    }
+
+    .sucess-status .education .main-box {
+        width: 230%;
+    }
+
+    .sucess-status .education .main-box .sub-box-1 {
+        height: 342px;
+    }
+
+    .sucess-status .expiriance .main-box {
+        display: flex;
+        width: 230%;
+    }
+
+    .sucess-status .expiriance .main-box .sub-box-1 {
+        height: 342px;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .hamb {
+        cursor: pointer;
+        float: right;
+        padding: 40px 20px;
+    }
+}
+
+@media only screen and (min-width: 850px) and (max-width: 1150px) {
+    .sucess-status .education .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .education .main-box .sub-box-2 .ex-detail {
+        margin-top: 38px;
+    }
+    .sucess-status .education .main-box .sub-box-1 {
+        height: 500px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail {
+        margin-top: 40px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-1 {
+        height: 500px;
+    }
+}
+@media only screen and (min-width: 1150px) and (max-width: 1250px) {
+    .sucess-status .education .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .education .main-box .sub-box-2 .ex-detail {
+        margin-top: 38px;
+    }
+    .sucess-status .education .main-box .sub-box-1 {
+        height: 426px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail {
+        margin-top: 40px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-1 {
+        height: 426px;
+    }
+}
+@media only screen and (min-width: 1250px) and (max-width: 1350px) {
+    .sucess-status .education .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .education .main-box .sub-box-2 .ex-detail {
+        margin-top: 38px;
+    }
+    .sucess-status .education .main-box .sub-box-1 {
+        height: 380px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail {
+        margin-top: 40px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-1 {
+        height: 380px;
+    }
+}
+@media only screen and (min-width: 1350px) and (max-width: 1450px) {
+    .sucess-status .education .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .education .main-box .sub-box-2 .ex-detail {
+        margin-top: 38px;
+    }
+    .sucess-status .education .main-box .sub-box-1 {
+        height: 350px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail {
+        margin-top: 40px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-1 {
+        height: 350px;
+    }
+}
+@media only screen and (min-width: 1450px) and (max-width: 1550px) {
+    .sucess-status .education .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .education .main-box .sub-box-2 .ex-detail {
+        margin-top: 38px;
+    }
+    .sucess-status .education .main-box .sub-box-1 {
+        height: 330px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail p {
+        width: 150%;
+    }
+    .sucess-status .expiriance .main-box .sub-box-2 .ex-detail {
+        margin-top: 40px;
+    }
+    .sucess-status .expiriance .main-box .sub-box-1 {
+        height: 330px;
+    }
+}

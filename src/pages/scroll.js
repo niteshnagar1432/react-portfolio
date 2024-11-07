@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/stylesheets/scroll.css">
+</head>
+<body>
+    <div id="main">
+        <div id="home">
+            <div id="overlay">
+                <div id="centerimg">
+                    <h5>[1]</h5>
+                    <h5>PH:</h5>
+                    <h5>MARINA KARPIY</h5>
+                    <div id="cimage">
+                        <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2729325/upload-7e333be7-ddef-4cbe-b901-7ad7ae364fb3.jpg?w=736&e=webp" alt="">
+                    </div>
+                </div>
+                <div id="circp"></div>
+                <h1 id="gallery">Gallery.</h1>
+                <h1 id="pinkflare">PinkFlare.</h1>
+                <div id="sidepurple">
+                    <img src="/images/scroll/sidepurple.PNG" alt="">
+                </div>
+                <div id="nav">
+                    <h1>colors<br>combinations</h1>
+                    <img src="/images/scroll/navright.PNG" alt="">
+                </div>
+                <div id="btmnav">
+                    <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-7da2bf52-326a-4b5b-9a85-2f8a40469eaf.png?w=170&e=webp&nll=true" alt="">
+                    <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-ca69834f-5cb7-4340-b30d-c7ea66350641.png?w=163&e=webp&nll=true" alt="">
+                </div>
+                <div id="circle">
+                    <div id="top">
+                        <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-01e6ea76-8d77-4749-aae3-79ad8e406893.png?w=2163&e=webp&nll=true" alt="">
+                        <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-01e6ea76-8d77-4749-aae3-79ad8e406893.png?w=2163&e=webp&nll=true" alt="">
+                        <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-01e6ea76-8d77-4749-aae3-79ad8e406893.png?w=2163&e=webp&nll=true" alt="">
+                    </div>
+                    <div id="btm">
+                        <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-01e6ea76-8d77-4749-aae3-79ad8e406893.png?w=2163&e=webp&nll=true" alt="">
+                        <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-01e6ea76-8d77-4749-aae3-79ad8e406893.png?w=2163&e=webp&nll=true" alt="">
+                        <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-01e6ea76-8d77-4749-aae3-79ad8e406893.png?w=2163&e=webp&nll=true" alt="">
+                    </div>
+                </div>
+                <div id="smcircle"></div>
+            </div>
+            <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2729325/upload-c9a090fd-3a1e-4c53-849b-a3ef199bfbc2.png?e=webp&nll=true" alt="">
+        </div>
+        <div id="second">
+            <div id="nav">
+                <h1>colors<br>combinations</h1>
+                <img src="/images/scroll/navright.PNG" alt="">
+            </div>
+            <div id="btmnav">
+                <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-7da2bf52-326a-4b5b-9a85-2f8a40469eaf.png?w=170&e=webp&nll=true" alt="">
+                <img src="https://d2kq0urxkarztv.cloudfront.net/59ee0858278cca00855b0b53/2496214/upload-ca69834f-5cb7-4340-b30d-c7ea66350641.png?w=163&e=webp&nll=true" alt="">
+            </div>
+            <div id="stop">
+                <h1>Gradient</h1>
+                <div class="circle pu"></div>
+                <div class="circle pi"></div>
+            </div>
+            <div id="sbtm">
+                <p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+                <p id="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, alias.</p>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" integrity="sha512-f8mwTB+Bs8a5c46DEm7HQLcJuHMBaH/UFlcgyetMqqkvTcYg4g5VXsYR71b3qC82lZytjNYvBj2pf0VekA9/FQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js" integrity="sha512-A64Nik4Ql7/W/PJk2RNOmVyC/Chobn5TY08CiKEX50Sdw+33WTOpPJ/63bfWPl0hxiRv1trPs5prKO8CpA7VNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="/javascripts/scroll.js"></script>
+</body>
+</html>
